@@ -34,3 +34,8 @@ Continue work already tracked there in its existing issue. A future migration re
 Record primary source URLs, publisher, access date, relevant version/region, the supported claim, confidence and limitations. Distinguish published claims, independent measurements and estimates. Unknown means unknown; never invent missing prices, sources or measurements.
 
 Document the question, method, findings, limitations and requested decision in each research submission. Link the receiving technical or product issue and obtain the relevant owner's acceptance before describing a handoff as complete.
+
+## Contributor routing
+
+For a blocked decision, use [the repository routing procedure](CONTRIBUTING.md#routing-decisions).
+Start with the existing issue and its accepted owner; preserve its scope and evidence requirements.
