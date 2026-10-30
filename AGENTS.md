@@ -9,3 +9,13 @@ Read README.md, CONTRIBUTING.md and the issue's live instructions before prepari
 - Keep technical component decisions, compatibility, pricebooks and frozen v1 contracts with their Research owners. Use the existing handoff process rather than creating a competing schema.
 - Do not commit credentials, personal/customer content, raw datasets, model weights or large evidence downloads.
 - Run the checks described in CONTRIBUTING.md. State what remains unverified; do not claim CI, deployment, automatic refresh or research acceptance from this initial repository setup.
+
+## Decisions and escalation
+
+For unresolved decisions, follow [CONTRIBUTING.md#routing-decisions](CONTRIBUTING.md#routing-decisions)
+and the [canonical escalation guide](https://github.com/Pick-Your-AI/.github/blob/main/docs/governance/ESCALATION.md).
+Refresh private routing evidence before choosing a recipient. Report unresolved
+roles and failed or stale lookups explicitly; do not infer accepted ownership from
+membership or access. Preserve the existing assignee, local gates and private-reporting
+boundaries. Central links depend on the governance change merging; no automatic
+routing, permission change or recurring job is enabled by these instructions.
