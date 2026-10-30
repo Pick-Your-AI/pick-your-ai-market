@@ -1,0 +1,72 @@
+{
+ "config_sha256": "bd2386d654a06b2602ae9a379db613a44b7718a69e59e596c1aa59b3a6519e56",
+ "fingerprint": "7d9f05836526ca76d0b4cdfe3e2a472937abf226701b2475d2655edfc6c59a5d",
+ "inputs": {
+  "description": "Competitive intelligence, market validation, customer research, and product differentiation for Pick Your AI, the PCPartPicker for AI.",
+  "icon_sha256": "056f61ac0a8a82ab11fbf16769f86c30b825d117c2b726d6ed198f49bb394501",
+  "language": null,
+  "license": null,
+  "override_sha256": "2585c448cfbbeda94eab65e7bf278123cdfe04dbfdce02a7d214e6619667cbf4",
+  "owner": "Pick-Your-AI",
+  "repo": "pick-your-ai-market",
+  "topics": [],
+  "type": "workspace",
+  "visibility": "public"
+ },
+ "outputs": {
+  "banner.png": {
+   "bytes": 97159,
+   "chips": [
+    {
+     "box": [
+      520,
+      240.2,
+      182.0,
+      38
+     ],
+     "kind": "key",
+     "source": "override",
+     "text": "Market research"
+    },
+    {
+     "box": [
+      714.0,
+      240.2,
+      147.0,
+      38
+     ],
+     "kind": "attr",
+     "source": "override",
+     "text": "Competitors"
+    },
+    {
+     "box": [
+      873.1,
+      240.2,
+      95.2,
+      38
+     ],
+     "kind": "attr",
+     "source": "override",
+     "text": "Pricing"
+    }
+   ],
+   "icon_source": "repo",
+   "px": [
+    2560,
+    720
+   ],
+   "repository_id": 1437739257,
+   "scale": 2,
+   "sha256": "23e50046cf620d3c96edc261bc48ae2b6098b74ce1fe9ae868c1141984cb70fa"
+  },
+  "card.svg": {
+   "bytes": 28120,
+   "repository_id": 1437739257,
+   "sha256": "d1411723090846eb29fd764e8699f27446902f956094da0b1fa13c9725d7322e"
+  }
+ },
+ "schema": 1,
+ "skill_version": "1.0.0",
+ "standard": "ct-std-v1"
+}

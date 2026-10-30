@@ -1,0 +1,7 @@
+for: Pick-Your-AI/pick-your-ai-market
+chips:
+  key:
+    - Market research
+  attrs:
+    - Competitors
+    - Pricing
